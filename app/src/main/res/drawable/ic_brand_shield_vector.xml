@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Left Half (Lighter Green) -->
+    <path
+        android:fillColor="#008B54"
+        android:pathData="M 50,15 C 42,15 30,17 25,18 C 24,35 24,50 25,58 C 27,70 38,80 50,85 L 50,15 Z" />
+
+    <!-- Right Half (Darker Green) -->
+    <path
+        android:fillColor="#005A36"
+        android:pathData="M 50,15 L 50,85 C 62,80 73,70 75,58 C 76,50 76,35 75,18 C 70,17 58,15 50,15 Z" />
+
+    <!-- Inner Gold Border Outline -->
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M 50,19 C 43,19 33,21 29,22 C 28,36 28,49 29,56 C 31,66 40,75 50,80 C 60,75 69,66 71,56 C 72,49 72,36 71,22 C 67,21 57,19 50,19 Z" />
+
+    <!-- Naira Symbol: Left Vertical Stem of the N -->
+    <path
+        android:fillColor="#5A6D7C"
+        android:pathData="M 40,34 h 4 v 30 h -4 Z" />
+
+    <!-- Naira Symbol: Right Vertical Stem of the N -->
+    <path
+        android:fillColor="#5A6D7C"
+        android:pathData="M 56,34 h 4 v 30 h -4 Z" />
+
+    <!-- Naira Symbol: Diagonal Stem of the N -->
+    <path
+        android:fillColor="#5A6D7C"
+        android:pathData="M 40,34 L 56,64 h 4 L 44,34 Z" />
+
+    <!-- Naira Symbol: Upper Horizontal Bar of the ₦ -->
+    <path
+        android:fillColor="#5A6D7C"
+        android:pathData="M 34,42.5 h 32 v 3 h -32 Z" />
+
+    <!-- Naira Symbol: Lower Horizontal Bar of the ₦ -->
+    <path
+        android:fillColor="#5A6D7C"
+        android:pathData="M 34,51.5 h 32 v 3 h -32 Z" />
+
+</vector>
