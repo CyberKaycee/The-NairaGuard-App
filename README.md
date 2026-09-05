@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="1000393014-removebg-preview.png" alt="Logo" width="200" height="auto" />
+</p>
+
+
 NAIRAGUARD — Real-Time Price Intelligence & Margin Protection
 
 NairaGuard is a high-utility mobile platform designed to protect profit margins for merchants, traders, and vendors across major Lagos markets. By compiling localized commodity indices and offering cross-market pricing intelligence (Mainland vs. Island valuations), the application equips retail businesses with the data needed to hedge against sudden currency and market fluctuations.
