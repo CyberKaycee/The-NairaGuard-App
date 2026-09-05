@@ -40,6 +40,8 @@ Plus Premium Plan Modules:
 1.7 Cross-Market Arbitrage Finder (Teaser Mode): Displays an active notification teaser showing that arbitrage opportunities have been found (e.g., "5 Arbitrage Opportunities found today"), prompting premium exploration.
 Plus Premium Plan Modules (Exclusive Unlock):
 1.7 Premium Arbitrage Core: Full real-time access to live, instant cross-market price gap alerts across key regional distribution hubs.
+
+
 🔵 Phase II: The Scaling Phase
 Introduces secure cloud infrastructure, multi-user access rules, and fundamental retail store bookkeeping metrics.
 
@@ -64,6 +66,8 @@ Plus Premium Plan Modules:
 2.2 Credit Framework: Full access to the professional Debt Tracker module for comprehensive management and logging of custom customer credit books.
 2.3 Automated Collections: Automated SMS Debt Tracker utilities that configure custom text alerts and push payment notifications to customer phone numbers when payment terms are overdue.
 Ecosystem Foundation: Full integration of secure mobile payment processing pipelines (Paystack/Flutterwave) for automated PLUS tier monthly subscription management.
+
+
 🟡 Phase III: The Intelligence Stage
 Transitions the platform from an isolated shop utility into an interconnected, transactional B2B market ecosystem.
 
@@ -81,6 +85,8 @@ Free Plan Modules:
 External SMS Routing: Forward out-of-app purchase inquiries directly to wholesalers using external SMS text message paths.
 Plus Premium Plan Modules:
 In-App Negotiation Chat: Unlocks real-time chat channels enabling retail merchants to securely discuss pricing, negotiate bulk discounts, and finalize procurement deals directly within the platform.
+
+
 🟣 Phase IV: The AI Phase / Stage
 Deploys automated financial algorithms and native point-of-sale hardware integrations to protect retail profit margins.
 
@@ -99,32 +105,34 @@ Free Plan Modules:
 AI features are locked for the Free tier; system continues running core Phase I-III operational tools.
 Plus Premium Plan Modules:
 Smart Restock Predictor: Runs advanced machine learning forecasting loops over local shop inventory burn rates to calculate exact restock dates, advising merchants what to buy before regional inflation spikes happen.
+
+
 🗺️ Phase V: National Expansion
 Replicates the underlying software architecture, data collection workflows, and dual-layer business models into geopolitical zones across Nigeria.
 
 Geographic Expansion Policy: Every major regional zone release dynamically injects +10 New Region-Specific Commodities into the global system registry (5 added at the base .0 release and 5 added at the sub-version .1 or subsequent updates).
 Plan Framework Access: FREE Plan accounts maintain access to localized native regional parameters. PLUS Plan accounts unlock access to comprehensive multi-regional marketplace comparisons and complex logistical supply chain tracking models.
 
-[ V5.0 ] 📍 SOUTH-SOUTH REGION
-├── Hubs: Port Harcourt (Oil Mill Market), Benin, Uyo.
-└── +5 Regional Commodities (e.g., Seafood & Palm Oil Variants)
-│
-├── [ V5.1 ] 📍 SOUTH-EAST REGION
-└── Hubs: Onitsha Main Market, Aba (Ariaria International Market)
-└── +5 Regional Commodities (Total Phase V.0/V.1 additions = 10)
-│
-├── [ V5.2 ] 📍 SOUTH-WEST REGION
-└── Hubs: Ibadan (Bodija Market), Abeokuta
-└── +5 Regional Commodities (e.g., Local Tuber Variants)
-│
-├── [ V5.3 ] 📍 NORTH-WEST REGION
-└── Hubs: Kano (Kurmi & Dawanau Markets), Kaduna
-└── +5 Regional Commodities (Total Phase V.2/V.3 additions = 10)
-│
-├── [ V5.4 ] 📍 NORTH-EAST REGION
-└── Hubs: Maiduguri, Bauchi
-└── +5 Regional Commodities (e.g., Specialized Livestock/Grains)
-│
-└── [ V5.5 ] 📍 NORTH-CENTRAL REGION
-└── Hubs: Abuja (Wuse Market), Jos, Makurdi
-└── +5 Regional Commodities (Total Phase V.4/V.5 additions = 10)
+V5.0 📍 SOUTH-SOUTH REGION
+Hubs: Port Harcourt (Oil Mill Market), Benin, Uyo.
++5 Regional Commodities (e.g., Seafood & Palm Oil Variants)
+
+V5.1📍 SOUTH-EAST REGION
+Hubs: Onitsha Main Market, Aba (Ariaria International Market)
++5 Regional Commodities (Total Phase V.0/V.1 additions = 10)
+
+V5.2📍 SOUTH-WEST REGION
+Hubs: Ibadan (Bodija Market), Abeokuta
++5 Regional Commodities (e.g., Local Tuber Variants)
+
+V5.3📍 NORTH-WEST REGION
+Hubs: Kano (Kurmi & Dawanau Markets), Kaduna
++5 Regional Commodities (Total Phase V.2/V.3 additions = 10)
+
+V5.4📍 NORTH-EAST REGION
+Hubs: Maiduguri, Bauchi
++5 Regional Commodities (e.g., Specialized Livestock/Grains)
+
+V5.5📍 NORTH-CENTRAL REGION
+Hubs: Abuja (Wuse Market), Jos, Makurdi
++5 Regional Commodities (Total Phase V.4/V.5 additions = 10)
